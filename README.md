@@ -1,3 +1,5 @@
+The model on [Hugging Face](https://huggingface.co/AustinJiang/giraffe-zebra-translation)
+
 
 # Lost in Translation: Retraining an AI on New World Terms
 
